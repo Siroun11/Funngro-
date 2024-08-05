@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funngro - Home</title>
+    <meta name="description" content="Welcome to Funngro, connecting companies with talented teens.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Funngro</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="company.html">Company</a></li>
+                <li><a href="teen.html">Teen</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>Connecting Companies with Talented Teens</h2>
+            <p>Funngro offers unique opportunities for companies to engage with talented teens through innovative programs and internships.</p>
+        </section>
+        <section class="overview">
+            <h2>What We Offer</h2>
+            <p>Funngro is dedicated to providing meaningful opportunities for both companies and teens. Our platform facilitates valuable connections through well-structured programs and internships.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Funngro. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
